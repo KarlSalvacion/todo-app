@@ -19,7 +19,7 @@ const InputTodo = () => {
 
   return (
     <div className="MainTodo">
-      <h1 className="todoTitle">TODO LIST</h1>
+      <h1 className="todoTitle">TODO LIST asdasd asdasdas</h1>
       <form onSubmit={handleSubmit}>
         <input
           className="form-control"
